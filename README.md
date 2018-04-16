@@ -25,5 +25,15 @@ Easy Discord Rich Presence for Smash 4.
   There are quite a few images that can be used as the primary image (the larger one) in your Rich Presence. Here is a list of
   them:
   
-  - solo_mode
+  - **solo_mode**
   ![alt text](https://i.imgur.com/f1ucC1P.jpg "solo_mode")
+    - **with_friends**
+  ![alt text](https://i.imgur.com/XDQveF3.jpg "with_friends")
+    - **for_fun**
+  ![alt text](https://i.imgur.com/4gpv1Dr.jpg "for_fun")
+  - **for_glory**
+  ![alt text](https://i.imgur.com/DblSRVa.png "for_glory")
+  - **local**
+  ![alt text](https://i.imgur.com/CvjvByN.jpg "local")
+  - **all_star**
+  ![alt text](https://i.imgur.com/m4DufAy.jpg "all_star")
